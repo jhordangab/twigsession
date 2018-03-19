@@ -1,0 +1,40 @@
+{
+    "name": "jhordangabtwigsession/twig-session",
+    "description": "Twig session",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "twig session"
+    ],
+    "support": {
+        "docs": "https://github.com/https://github.com/jhordangab/twigsession/twig-session/blob/master/README.md",
+        "issues": "https://github.com/https://github.com/jhordangab/twigsession/twig-session/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jhordan Gabriel",
+            "homepage": "https://github.com/jhordangab/"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "jhordangabtwigsession\\twigsession\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Twig Session",
+        "handle": "twig-session",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/https://github.com/jhordangab/twigsession/twig-session/master/CHANGELOG.md",
+        "class": "jhordangabtwigsession\\twigsession\\TwigSession"
+    }
+}
