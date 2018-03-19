@@ -1,6 +1,6 @@
-# Twig Session plugin for Craft CMS 3.x
+# Twigsession plugin for Craft CMS 3.x
 
-Twig session
+Twigsession
 
 ![Screenshot](resources/img/plugin-logo.png)
 
@@ -18,23 +18,23 @@ To install the plugin, follow these instructions.
 
 2. Then tell Composer to load the plugin:
 
-        composer require jhordangab/twig-session
+        composer require jhordangab/twigsession
 
-3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Twig Session.
+3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Twigsession.
 
-## Twig Session Overview
-
--Insert text here-
-
-## Configuring Twig Session
+## Twigsession Overview
 
 -Insert text here-
 
-## Using Twig Session
+## Configuring Twigsession
 
 -Insert text here-
 
-## Twig Session Roadmap
+## Using Twigsession
+
+-Insert text here-
+
+## Twigsession Roadmap
 
 Some things to do, and ideas for potential features:
 
