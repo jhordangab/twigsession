@@ -32,7 +32,7 @@ use yii\base\Event;
  *
  * @author    jhordangab
  * @package   Twigsession
- * @since     1.0.0
+ * @since     1.0.4
  *
  */
 class Twigsession extends Plugin
