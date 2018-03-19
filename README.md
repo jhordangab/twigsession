@@ -18,7 +18,7 @@ To install the plugin, follow these instructions.
 
 2. Then tell Composer to load the plugin:
 
-        composer require https://github.com/jhordangab/twigsession/twig-session
+        composer require jhordangab/twig-session
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Twig Session.
 
@@ -40,4 +40,4 @@ Some things to do, and ideas for potential features:
 
 * Release it
 
-Brought to you by [Jhordan Gabriel](https://github.com/jhordangab/)
+Brought to you by [jhordangab](https://github.com/jhordangab/)

@@ -5,7 +5,7 @@
  * Twig session
  *
  * @link      https://github.com/jhordangab/
- * @copyright Copyright (c) 2018 Jhordan Gabriel
+ * @copyright Copyright (c) 2018 jhordangab
  */
 
 /**
@@ -16,7 +16,7 @@
  *
  * http://www.yiiframework.com/doc-2.0/guide-tutorial-i18n.html
  *
- * @author    Jhordan Gabriel
+ * @author    jhordangab
  * @package   TwigSession
  * @since     1.0.0
  */

@@ -5,12 +5,12 @@
  * Twig session
  *
  * @link      https://github.com/jhordangab/
- * @copyright Copyright (c) 2018 Jhordan Gabriel
+ * @copyright Copyright (c) 2018 jhordangab
  */
 
-namespace jhordangabtwigsession\twigsession;
+namespace jhordangab\twigsession;
 
-use jhordangabtwigsession\twigsession\variables\TwigSessionVariable;
+use jhordangab\twigsession\variables\TwigSessionVariable;
 
 use Craft;
 use craft\base\Plugin;
@@ -30,7 +30,7 @@ use yii\base\Event;
  *
  * https://craftcms.com/docs/plugins/introduction
  *
- * @author    Jhordan Gabriel
+ * @author    jhordangab
  * @package   TwigSession
  * @since     1.0.0
  *

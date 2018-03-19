@@ -1,5 +1,5 @@
 {
-    "name": "jhordangabtwigsession/twig-session",
+    "name": "jhordangab/twig-session",
     "description": "Twig session",
     "type": "craft-plugin",
     "version": "1.0.0",
@@ -11,13 +11,13 @@
         "twig session"
     ],
     "support": {
-        "docs": "https://github.com/https://github.com/jhordangab/twigsession/twig-session/blob/master/README.md",
-        "issues": "https://github.com/https://github.com/jhordangab/twigsession/twig-session/issues"
+        "docs": "https://github.com/jhordangab/twig-session/blob/master/README.md",
+        "issues": "https://github.com/jhordangab/twig-session/issues"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Jhordan Gabriel",
+            "name": "jhordangab",
             "homepage": "https://github.com/jhordangab/"
         }
     ],
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-          "jhordangabtwigsession\\twigsession\\": "src/"
+          "jhordangab\\twigsession\\": "src/"
         }
     },
     "extra": {
@@ -34,7 +34,7 @@
         "handle": "twig-session",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/https://github.com/jhordangab/twigsession/twig-session/master/CHANGELOG.md",
-        "class": "jhordangabtwigsession\\twigsession\\TwigSession"
+        "changelogUrl": "https://raw.githubusercontent.com/jhordangab/twig-session/master/CHANGELOG.md",
+        "class": "jhordangab\\twigsession\\TwigSession"
     }
 }
