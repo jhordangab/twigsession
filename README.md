@@ -21,23 +21,3 @@ To install the plugin, follow these instructions.
         composer require jhordangab/twigsession
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Twigsession.
-
-## Twigsession Overview
-
--Insert text here-
-
-## Configuring Twigsession
-
--Insert text here-
-
-## Using Twigsession
-
--Insert text here-
-
-## Twigsession Roadmap
-
-Some things to do, and ideas for potential features:
-
-* Release it
-
-Brought to you by [jhordangab](https://github.com/jhordangab/)
