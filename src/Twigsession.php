@@ -127,6 +127,16 @@ class Twigsession extends Plugin
         );
     }
 
+    public function set($key, $value)
+    {
+      Craft::$app->getSession()->set($key, $value);
+    }
+
+    public function get($key)
+    {
+      Craft::$app->getSession()->get($key);
+    }
+
     // Protected Methods
     // =========================================================================
 
