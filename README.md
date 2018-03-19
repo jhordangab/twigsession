@@ -21,3 +21,9 @@ To install the plugin, follow these instructions.
         composer require jhordangab/twigsession
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Twigsession.
+
+## 
+
+craft.twigsession.set('name', 'value')
+
+craft.twigsession.get('name')
